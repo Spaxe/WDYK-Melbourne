@@ -1,5 +1,7 @@
-# From Chaos to Order
+# [Talk updated]
+See https://spaxe.github.io/programming-generative-art/ for the 20-minute talk verison.
 
+## From Chaos to Order
 [View the slides online here](https://spaxe.github.io/WDYK-Melbourne).
 
 To run the presentation, clone this repository.
